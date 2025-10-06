@@ -120,7 +120,7 @@ const Footer = () => {
 
         <div className="mt-16 pt-8 border-t border-gray-800 text-center text-gray-500 text-sm">
           <p>&copy; {new Date().getFullYear()} A1 AUTO SERVICE & TYRES. All Rights Reserved.</p>
-          <p className="mt-2">
+          {/* <p className="mt-2">
             Designed & Developed by{' '}
             <a
               href="https://www.laskontech.com/"
@@ -130,7 +130,7 @@ const Footer = () => {
             >
               Laskon Technologies
             </a>
-          </p>
+          </p> */}
         </div>
       </div>
     </footer>
